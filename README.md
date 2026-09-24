@@ -1,6 +1,6 @@
-# ARK-9 RC1
+# ARK-9 RC2
 
-Release Candidate 1 of ARK-9.
+Release Candidate 2 of ARK-9.
 
 ## Run
 
@@ -8,7 +8,14 @@ Release Candidate 1 of ARK-9.
 python ark9.py
 ```
 
-ARK-9 RC1 is a lightweight Python desktop AI/chat application foundation built with Tkinter.
+ARK-9 RC2 is a lightweight Python desktop AI/chat application foundation built with Tkinter.
+
+### RC2 changes
+
+- Updated the interface to RC2
+- Added status responses
+- Added local time response
+- Improved online status handling
 
 ## Contributors
 
